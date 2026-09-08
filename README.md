@@ -1,0 +1,1 @@
+The ChatPDF(PDF Chatbot) is an application that allows users to upload PDF files and interact with pdf using a chatbot. Users can ask questions or provide input, and the chatbot will generate responses based on the provided information.
